@@ -221,20 +221,3 @@ we will get our final result in "inches" from this formula of distance.
     distancei = (2 x 3.14 x 180) ÷ (w + h x 360) x 1000 + 3
 ```
 
-* Notes - As mentioned earlier YOLO prefers performance over accuracy that's why the model predicts wrong objects frequently.
-
-## If anyone using this code for any kind of publication, kindly cite this work.
-
-M. A. Khan, P. Paul, M. Rashid, M. Hossain and M. A. R. Ahad, "An AI-Based Visual Aid With Integrated Reading Assistant for the Completely Blind," in IEEE Transactions on Human-Machine Systems.
-doi: 10.1109/THMS.2020.3027534
-
-
-
-
-### Reference
-
-- [Real-Time Distance Measurement Using a Modified
-Camera ](https://sci-hub.tw/10.1109/SAS.2010.5439423)
-- [Real-time Distance Measurement Using Single Image](http://emaraic.com/blog/distance-measurement)
-- [Object image and focal distance relationship (proof of formula)](https://www.khanacademy.org/science/physics/geometric-optics/lenses/v/object-image-and-focal-distance-relationship-proof-of-formula)
-- [Distance or arc length from angular displacement](https://www.khanacademy.org/science/ap-physics-1/ap-centripetal-force-and-gravitation/introduction-to-uniform-circular-motion-ap/v/distance-or-arc-length-from-angular-displacement)
